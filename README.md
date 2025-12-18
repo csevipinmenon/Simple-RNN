@@ -1,6 +1,5 @@
 
 
-````markdown
 # 🎬 Movie Review Sentiment Analysis using Simple RNN
 
 ## 📌 Project Overview
